@@ -1,1 +1,1 @@
-⁉️ Quiz-Game-With-Django
+⁉️ Quiz Game With Django
